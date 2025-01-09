@@ -1,4 +1,5 @@
-﻿public class LogicalOperators
+//program ma na  zadaniu sprawdzenie czy podane warunki sa spelnione
+public class LogicalOperators
 {
     public static void Main(string[] args)
     {
